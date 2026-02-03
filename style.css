@@ -11,8 +11,8 @@ body {
 
 .img{
     display: flex;
-    width: 50%;
-    height: 96%;
+    width: 40%;
+    height: 60%;
     margin: 1% 1% 1% 1%;
     background: url(./Assets/halie-west-25xggax4bSA-unsplash.jpg) no-repeat 
     center;
